@@ -44,7 +44,7 @@ admin.site.register(Car,CarAdmin)
 
 ## OUTPUT
 
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-11-21 103712.png
+![alt text](image.png)
 
 
 ## RESULT
